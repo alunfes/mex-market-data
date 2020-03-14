@@ -1,0 +1,5 @@
+/ignore/
+/mex-market-data/
+/.venv_bakp/
+*.csv
+*.dat
