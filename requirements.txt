@@ -16,7 +16,7 @@ configparser==4.0.2
 Django==1.11.10
 docutils==0.15.2
 ec2-hibinit-agent==1.0.0
-ecdsa==0.11
+ecdsa==0.13.3
 enum34==1.1.9
 futures==3.3.0
 hibagent==1.0.0
