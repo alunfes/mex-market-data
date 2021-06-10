@@ -13,7 +13,7 @@ CodeIntel==0.9.3
 colorama==0.4.3
 configobj==4.7.2
 configparser==4.0.2
-Django==1.11.10
+Django==2.2.24
 docutils==0.15.2
 ec2-hibinit-agent==1.0.0
 ecdsa==0.11
